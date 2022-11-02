@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\bin\Debug\BinaryTest.exe.config
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\bin\Debug\BinaryTest.exe
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\bin\Debug\BinaryTest.pdb
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\obj\Debug\BinaryTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\obj\Debug\BinaryTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\obj\Debug\BinaryTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\obj\Debug\BinaryTest.exe
+C:\Users\ASUS\Desktop\Algoritm\BinaryTest\BinaryTest\obj\Debug\BinaryTest.pdb

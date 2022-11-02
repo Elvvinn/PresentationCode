@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\bin\Debug\LinearTest.exe.config
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\bin\Debug\LinearTest.exe
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\bin\Debug\LinearTest.pdb
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\obj\Debug\LinearTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\obj\Debug\LinearTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\obj\Debug\LinearTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\obj\Debug\LinearTest.exe
+C:\Users\ASUS\Desktop\Algoritm\LinearTest\LinearTest\obj\Debug\LinearTest.pdb
